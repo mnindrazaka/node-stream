@@ -1,0 +1,22 @@
+{
+  "name": "node-stream",
+  "version": "1.0.0",
+  "description": "Node.js stream example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnindrazaka/node-stream.git"
+  },
+  "author": "mnindrazaka@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnindrazaka/node-stream/issues"
+  },
+  "homepage": "https://github.com/mnindrazaka/node-stream#readme",
+  "dependencies": {
+    "zlib": "^1.0.5"
+  }
+}
